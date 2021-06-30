@@ -2453,7 +2453,7 @@ word-wrap@^1.2.3:
 
 "wp-plugin-unused-js@https://github.com/vmik7/wp-plugin-unused-js.git":
   version "1.0.0"
-  resolved "https://github.com/vmik7/wp-plugin-unused-js.git#aa86ae645b8536aded56034b307cd3930cafcac1"
+  resolved "https://github.com/vmik7/wp-plugin-unused-js.git#6fa57391e33200e82ba8c87363950e15cb247282"
   dependencies:
     schema-utils "^3.0.0"
 
