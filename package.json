@@ -4,6 +4,7 @@
   "description": "Template repository with Husky & ESLint & Prettier",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "prettify": "prettier src --write",
     "lint": "eslint src --fix",
     "prepare": "husky install"
@@ -20,7 +21,9 @@
     "eslint-plugin-react": "^7.24.0",
     "husky": "^6.0.0",
     "lint-staged": ">=10",
-    "prettier": "^2.3.2"
+    "prettier": "^2.3.2",
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.7.2"
   },
   "dependencies": {},
   "lint-staged": {
